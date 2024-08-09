@@ -1,0 +1,11 @@
+#a{
+    border: 2px solid red;
+    height: 50px;
+    width: 870px;
+    display: flex;
+    justify-content: space-around;
+    /* padding-top: 20px; */
+    font-size: 23px;
+    align-items: center;
+    
+}

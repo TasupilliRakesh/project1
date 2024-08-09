@@ -1,0 +1,32 @@
+.features-section {
+    padding: 50px 20px;
+    background-color: #f1f3f4;
+    text-align: center;
+  }
+  
+  .features-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .features-buttons button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #e0e0e0;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  .features-buttons button.active {
+    background-color: #4285f4;
+    color: #fff;
+  }
+  
+  .feature-content {
+    margin-top: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  

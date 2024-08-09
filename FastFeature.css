@@ -1,0 +1,25 @@
+.fast-feature {
+    text-align: center;
+  }
+  
+  .fast-feature h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .fast-feature p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .fast-feature img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .fast-feature img:hover {
+    transform: scale(1.05);
+  }
+  
